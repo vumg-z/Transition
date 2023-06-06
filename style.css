@@ -4,13 +4,13 @@ html {
 }
 
 body {
-  background-color: #252725;
+  background-color: #ffffff;
 }
 
 .square {
   width: 24px;
   height: 24px;
-  background-color: #a4a8a4;
+  background-color: #8a8a8a;
   opacity: 0;
   transform: translateY(-100%);
   transition: opacity 0.5s, transform 0.5s;
